@@ -7,6 +7,8 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
 import java.lang.ref.SoftReference;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -20,6 +22,7 @@ public class SPManager {
     private static Context CONTEXT;
     private String name;
     private SoftReference<SharedPreferences> softSP = new SoftReference<>(null);
+    private List<Interceptor> mInterceptorList = new ArrayList<>();
 
     private SPManager() {
         this.name = "sp_manager";
@@ -52,6 +55,10 @@ public class SPManager {
         return new SPManager(name);
     }
 
+    public void addInterceptor(Interceptor interceptor) {
+        this.mInterceptorList.add(interceptor);
+    }
+
     private SharedPreferences getSP() {
         if (CONTEXT == null) {
             throw new IllegalStateException("初始化SPManager啊，大兄弟！");
@@ -66,6 +73,10 @@ public class SPManager {
     }
 
     public void put(@NonNull String key, @Nullable String vale) {
+        for (Interceptor interceptor : mInterceptorList) {
+            vale = interceptor.doPut(vale);
+        }
+
         SharedPreferences.Editor editor = getSP().edit();
         editor.putString(key, vale);
         editor.apply();
@@ -91,6 +102,11 @@ public class SPManager {
         String className = defaultValue.getClass().getName();
         SharedPreferences sp = getSP();
         String value = sp.getString(key, null);
+
+        for (Interceptor interceptor : mInterceptorList) {
+            value = interceptor.doGet(value);
+        }
+
         if (value == null) {
             return defaultValue;
         }
@@ -152,6 +168,15 @@ public class SPManager {
 
     public Map<String, ?> getAll() {
         return getSP().getAll();
+    }
+
+    /**
+     * 存取过程中对value进项响应操作
+     */
+    public interface Interceptor {
+        String doPut(String value);
+
+        String doGet(String value);
     }
 
     private static final class InstanceHolder {
