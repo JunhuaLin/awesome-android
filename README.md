@@ -7,8 +7,6 @@
 
 *关于架构相关的技术文章*
 
-* [MVC/MVP/MVVM](https://blog.csdn.net/singwhatiwanna/article/details/80904132) - 分析三者之间的关系，以及如何选择。
-
 
 ## Network
 
@@ -57,6 +55,7 @@
 
 *关于Android调试的文章或者博客，以及工具*
 
+* [如何调试Android Framework？](http://weishu.me/2016/05/30/how-to-debug-android-framework/) - Debug是一项非常非常重要的技能，毋庸多言，掌握这项技能，那么Java层的任何问题都拦不住你了。
 * [jadx](https://github.com/skylot/jadx) - 一个优秀的apk反编译工具，有GUI界面一键操作们非常方便。
 
 
