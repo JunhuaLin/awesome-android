@@ -52,6 +52,12 @@
 
 * [**Android 性能优化必知必会**](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/) - 这篇文章记录了 Android 性能优化所必须掌握的知识,涵盖性能优化相关的方方面面。
 
+## Android屏幕适配
+
+* [Android屏幕适配全攻略](https://blog.csdn.net/zhaokaiqiang1992/article/details/45419023) - 从屏幕基础知识到常见适配方案的详细介绍。
+* [一种极低成本的Android屏幕适配方式](https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA) - 通过修改dp和px的转换公式（px = dp * density）中density的值来达到屏幕适配的方法。
+
+
 ## 调试
 
 *关于Android调试的文章或者博客，以及工具*
