@@ -56,6 +56,7 @@
 
 * [Android屏幕适配全攻略](https://blog.csdn.net/zhaokaiqiang1992/article/details/45419023) - 从屏幕基础知识到常见适配方案的详细介绍。
 * [一种极低成本的Android屏幕适配方式](https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA) - 通过修改dp和px的转换公式（px = dp * density）中density的值来达到屏幕适配的方法。
+* [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) - 今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案的封装库。
 
 
 ## 调试
