@@ -34,6 +34,7 @@
 
 * [美团WebView性能、体验分析与优化](https://tech.meituan.com/2017/06/09/webviewperf.html)
 * [腾讯x5内核](https://x5.tencent.com/)
+* [WebView与JS交互](https://blog.csdn.net/carson_ho/article/details/64904691) - 全面地介绍Android通过WebView与JS交互方式。
 
 ## UI
 
