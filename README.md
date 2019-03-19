@@ -3,7 +3,7 @@
 
 # 目录
 
-## 网络
+## network
 
 *网络相关的工具*
 
@@ -36,3 +36,6 @@
 *大厂技术博客*
 
 * [美团技术团队](https://tech.meituan.com/)
+* [Android 开发技术周报](https://androidweekly.cn/)
+* [网易考拉移动端团队](https://blog.klmobile.app/)
+* [有赞技术团队](https://tech.youzan.com/tag/mobile/)
