@@ -36,6 +36,10 @@
 * [腾讯x5内核](https://x5.tencent.com/)
 * [WebView与JS交互](https://blog.csdn.net/carson_ho/article/details/64904691) - 全面地介绍Android通过WebView与JS交互方式。
 
+## Android动态权限
+
+* [AndPermission](https://github.com/yanzhenjie/AndPermission) - android动态权限申请的封装库，链式编程使用非常方便。
+
 ## UI
 
 *优秀的UI封装*
