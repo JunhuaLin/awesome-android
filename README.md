@@ -15,10 +15,6 @@
 * [一种极低成本的Android屏幕适配方式](https://mp.weixin.qq.com/s/d9QCoBP6kV9VSWvVldVVwA) - 通过修改dp和px的转换公式（px = dp * density）中density的值来达到屏幕适配的方法。
 * [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) - 今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案的封装库。
 
-## Android动态权限
-
-* [AndPermission](https://github.com/yanzhenjie/AndPermission) - android动态权限申请的封装库，链式编程使用非常方便。
-
 ## Database
 
 *ORM数据库相关库*
@@ -27,18 +23,20 @@
 * [DBFlow](https://github.com/agrosner/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
 * [realm-java](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs [http://realm.io](http://realm.io)
 
-## File
+## Tools
 
-*文件相关的工具*
+*常用工具集合*
 
-* [SPManager](https://github.com/JunhuaLin/AndroidUtilsLibrary/blob/master/app/src/main/java/cn/junhua/android/utilslibrary/io/SPManager.java) - SharedPreferences工具类，通用数据存储
+* file
+    * [SPManager](https://github.com/JunhuaLin/AndroidUtilsLibrary/blob/master/app/src/main/java/cn/junhua/android/utilslibrary/io/SPManager.java) - SharedPreferences工具类，通用数据存储
 
-## Network
+* network
+    * [SSLUtils](https://github.com/JunhuaLin/AndroidUtilsLibrary/blob/master/app/src/main/java/cn/junhua/android/utilslibrary/ssl/SSLUtils.java) - 证书工具类，用于处理OKHttp证书设置的工具类
+    * [SimpleCacheInterceptor](https://github.com/JunhuaLin/SimpleCacheInterceptor) - OKHttp3缓存拦截器用于缓存http请求结果。
 
-*网络相关的工具*
+* Android动态权限
+    * [AndPermission](https://github.com/yanzhenjie/AndPermission) - android动态权限申请的封装库，链式编程使用非常方便。
 
-* [SSLUtils](https://github.com/JunhuaLin/AndroidUtilsLibrary/blob/master/app/src/main/java/cn/junhua/android/utilslibrary/ssl/SSLUtils.java) - 证书工具类，用于处理OKHttp证书设置的工具类
-* [SimpleCacheInterceptor](https://github.com/JunhuaLin/SimpleCacheInterceptor) - OKHttp3缓存拦截器用于缓存http请求结果。
 
 ## UI
 
