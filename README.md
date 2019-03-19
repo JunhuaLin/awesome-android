@@ -36,6 +36,8 @@
 * network
     * [SSLUtils](https://github.com/JunhuaLin/AndroidUtilsLibrary/blob/master/app/src/main/java/cn/junhua/android/utilslibrary/ssl/SSLUtils.java) - 证书工具类，用于处理OKHttp证书设置的工具类
     * [SimpleCacheInterceptor](https://github.com/JunhuaLin/SimpleCacheInterceptor) - OKHttp3缓存拦截器用于缓存http请求结果。
+    * [FileDownloader](https://github.com/lingochamp/FileDownloader) - Android 文件下载引擎，稳定、高效、灵活、简单易用。
+    * [OkDownload](https://github.com/lingochamp/okdownload) - Android 文件下载引擎，稳定、高效、灵活、简单易用，是FileDownloader的升级版。
 
 * 反编译工具
     * [jadx](https://github.com/skylot/jadx) - 一个优秀的apk反编译工具，有GUI界面和命令行操作非常方便。
