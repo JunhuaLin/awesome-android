@@ -3,6 +3,13 @@
 
 # 目录
 
+## 架构相关
+
+*关于架构相关的技术文章*
+
+* [MVC/MVP/MVVM](https://blog.csdn.net/singwhatiwanna/article/details/80904132) - 分析三者之间的关系，以及如何选择。
+
+
 ## Network
 
 *网络相关的工具*
@@ -53,13 +60,17 @@
 * [jadx](https://github.com/skylot/jadx) - 一个优秀的apk反编译工具，有GUI界面一键操作们非常方便。
 
 
-
 ## Blog
 
 *大厂技术博客*
 
+* [JAKE WHARTON](https://jakewharton.com/)
 * [美团技术团队](https://tech.meituan.com/)
 * [Android 开发技术周报](https://androidweekly.cn/)
 * [网易考拉移动端团队](https://blog.klmobile.app/)
 * [有赞技术团队](https://tech.youzan.com/tag/mobile/)
-* [有赞技术团队](https://tech.youzan.com/tag/mobile/)
+
+
+## 其他优秀的导航网站
+
+* [玩android](https://www.wanandroid.com/navi)
