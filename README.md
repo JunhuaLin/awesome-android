@@ -64,6 +64,7 @@
 
 * [Android Studio你不知道的调试技巧](http://weishu.me/2015/12/21/android-studio-debug-tips-you-may-not-know/) - 介绍常用的断点技巧，如条件断点,日志断点,异常断点和Field WatchPoint等。
 * [如何调试Android Framework？](http://weishu.me/2016/05/30/how-to-debug-android-framework/) - Debug是一项非常非常重要的技能，毋庸多言，掌握这项技能，那么Java层的任何问题都拦不住你了。
+* [Android性能调优利器StrictMode](https://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/) - StrictMode意思为严格模式，是用来检测程序中违例情况的开发者工具，是Android自带的工具类。
 
 ## 架构相关
 
