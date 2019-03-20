@@ -27,7 +27,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 *关于android插件化相关的框架或者文章*
 
-* [DroidPlugin](https://github.com/Qihoo360/DroidPlugin) - DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
+* [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) - DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
 
 
 ## Tools
