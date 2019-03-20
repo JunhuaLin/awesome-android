@@ -23,6 +23,11 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [DBFlow](https://github.com/agrosner/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
 * [realm-java](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs [http://realm.io](http://realm.io)
 
+## HotFix
+
+* [tinker](https://github.com/Tencent/tinker) - 腾讯的热修复解决方案，不装app的情况下更新 dex, library 和 resources。
+* [AndFix](https://github.com/alibaba/AndFix) - 阿里的热修复解决方案。
+
 ## Plugin
 
 *关于android插件化相关的框架或者文章*
