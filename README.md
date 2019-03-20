@@ -52,7 +52,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 ## Theme
 
-    * [MagicaSakura](https://github.com/Bilibili/MagicaSakura) - MagicaSakura 是 Android 多主题框架，支持日间/夜间模式。
+* [MagicaSakura](https://github.com/Bilibili/MagicaSakura) - MagicaSakura 是 Android 多主题框架，支持日间/夜间模式。
 
 ## UI
 
