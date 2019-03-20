@@ -35,6 +35,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 *常用工具集合*
 
 * Android动态权限
+    * [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - 通过注解API处理运行时权限，简洁易用。
     * [AndPermission](https://github.com/yanzhenjie/AndPermission) - android动态权限申请的封装库，链式编程使用非常方便。
 
 * file
