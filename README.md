@@ -84,9 +84,11 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [如何调试Android Framework？](http://weishu.me/2016/05/30/how-to-debug-android-framework/) - Debug是一项非常非常重要的技能，毋庸多言，掌握这项技能，那么Java层的任何问题都拦不住你了。
 * [Android性能调优利器StrictMode](https://droidyue.com/blog/2015/09/26/android-tuning-tool-strictmode/) - StrictMode意思为严格模式，是用来检测程序中违例情况的开发者工具，是Android自带的工具类。
 
-# Java
+# awesome集中营
 
-* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - Java后端架构师技术图谱，包括算法，数据结构，设计模式，网络，数据库和中间件等。
+* [awesome-python](https://github.com/vinta/awesome-python) - python的资源列表。
+* [Java后端架构师技术图谱 architect-awesome](https://github.com/xingshaocheng/architect-awesome) - Java后端架构师技术图谱，包括算法，数据结构，设计模式，网络，数据库和中间件等。
+* [awesome-android](https://github.com/JStumpp/awesome-android) - JStumpp的Android资源列表。
 
 
 ## 架构相关
