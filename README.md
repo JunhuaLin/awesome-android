@@ -70,6 +70,10 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * RecyclerView
     * [SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView) - RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，HeaderView，FooterView，Item分组黏贴。
 
+# Status&Navigation Bar
+    * [ImmersionBar](https://github.com/gyf-dev/ImmersionBar) - android 4.4以上沉浸式状态栏和沉浸式导航栏管理，包括状态栏字体颜色，适用于Activity、Fragment、DialogFragment、Dialog，并且适配刘海屏，适配软键盘弹出等问题，一句代码轻松实现，以及对bar的其他设置。
+
+
 ## WebView
 
 * [美团WebView性能、体验分析与优化](https://tech.meituan.com/2017/06/09/webviewperf.html)
