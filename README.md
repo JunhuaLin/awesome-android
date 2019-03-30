@@ -1,4 +1,4 @@
-# android-awesome
+# Awesome Android
 A curated list of awesome Android frameworks, libraries, software and resources
 
 # Android
