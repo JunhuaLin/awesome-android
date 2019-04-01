@@ -64,6 +64,9 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 *优秀的UI封装*
 
+* QRCode
+    * [android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) - 几行代码快速集成二维码扫描功能。
+
 * Refresh Layout
     * [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 
