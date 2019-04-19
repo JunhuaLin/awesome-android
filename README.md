@@ -32,7 +32,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 *关于android插件化相关的框架或者文章*
 
-* [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) - DroidPlugin 是360手机助手在Android系统上实现了一种新的插件机制:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
+* [RePlugin](https://github.com/Qihoo360/RePlugin.git) - RePlugin是一套完整的、稳定的、适合全面使用的，占坑类插件化方案，由360手机卫士的RePlugin Team研发，也是业内首个提出”全面插件化“（全面特性、全面兼容、全面使用）的方案。
 
 
 ## Tools
@@ -78,6 +78,8 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * Status&Navigation Bar
     * [ImmersionBar](https://github.com/gyf-dev/ImmersionBar) - android 4.4以上沉浸式状态栏和沉浸式导航栏管理，包括状态栏字体颜色，适用于Activity、Fragment、DialogFragment、Dialog，并且适配刘海屏，适配软键盘弹出等问题，一句代码轻松实现，以及对bar的其他设置。
 
+* UI库快速开发
+    * [QMUI_Android](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库，常见View封装即开即用，常用工具沉浸式状态工具等 http://qmuiteam.com/android
 
 ## WebView
 
