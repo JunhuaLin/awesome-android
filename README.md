@@ -56,6 +56,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
     * [OkDownload](https://github.com/lingochamp/okdownload) - Android 文件下载引擎，稳定、高效、灵活、简单易用，是FileDownloader的升级版。
 
 * apk相关工具
+    * [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
     * [jadx](https://github.com/skylot/jadx) - 一个优秀的apk反编译工具，有GUI界面和命令行操作非常方便。
     * [ClassyShark](https://github.com/google/android-classyshark) - Google开源，用于分析apk的工具，可以查看apk中类，接口，方法和dex的数量等信息。
 
