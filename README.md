@@ -105,6 +105,12 @@ A curated list of awesome Android frameworks, libraries, software and resources
 *关于架构相关的技术文章*
 
 
+## 大厂github
+
+* [阿里巴巴](https://github.com/alibaba)
+* [腾讯](https://github.com/Tencent)
+* [滴滴出行](https://github.com/didi)
+
 ## 大厂技术博客
 
 * [JAKE WHARTON](https://jakewharton.com/)
