@@ -32,6 +32,8 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 *关于android插件化相关的框架或者文章*
 
+* [VirtualAPK](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android.Android 9.0 supported!
+* [atlas](https://github.com/alibaba/atlas) - Atlas is an Android client-side containerization framework. we call it android dynamic component framework.Android 9.0 supported!
 * [RePlugin](https://github.com/Qihoo360/RePlugin.git) - RePlugin是一套完整的、稳定的、适合全面使用的，占坑类插件化方案，由360手机卫士的RePlugin Team研发，也是业内首个提出”全面插件化“（全面特性、全面兼容、全面使用）的方案。
 
 
