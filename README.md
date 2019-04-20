@@ -1,8 +1,6 @@
 # Awesome Android
 A curated list of awesome Android frameworks, libraries, software and resources
 
-# Android
-
 ## Android性能优化
 
 *关于Android性能优化相关的文章或者博客*
