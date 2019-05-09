@@ -123,6 +123,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [awesome-python](https://github.com/vinta/awesome-python) - python的资源列表。
 * [Java后端架构师技术图谱 architect-awesome](https://github.com/xingshaocheng/architect-awesome) - Java后端架构师技术图谱，包括算法，数据结构，设计模式，网络，数据库和中间件等。
 * [awesome-android](https://github.com/JStumpp/awesome-android) - JStumpp的Android资源列表。
+* [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 # 其他优秀的导航网站
 
