@@ -107,6 +107,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 *关于如何在Maven和Jcent发布自己的库*
 
 * [私有库发布到jCenter和Maven](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html)
+* [bintray-release](https://github.com/novoda/bintray-release) - A helper for releasing from gradle up to bintray
 
 ## 大厂github
 
