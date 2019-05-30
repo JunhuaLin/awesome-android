@@ -102,6 +102,11 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 *关于架构相关的技术文章*
 
+## Maven操作
+
+*关于如何在Maven和Jcent发布自己的库*
+
+* [私有库发布到jCenter和Maven](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html)
 
 ## 大厂github
 
