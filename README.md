@@ -39,6 +39,8 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 *常用工具集合*
 
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - 集合了Android很多非常常用的工具库。
+
 * Android动态权限
     * [PermissionAgent](https://github.com/JunhuaLin/PermissionAgent) - 一处初始化处处可用的链式编程动态权限请求库。
     * [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - 通过注解API处理运行时权限，简洁易用。
@@ -58,6 +60,10 @@ A curated list of awesome Android frameworks, libraries, software and resources
     * [DoraemonKit](https://github.com/didi/DoraemonKit) - 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。
     * [jadx](https://github.com/skylot/jadx) - 一个优秀的apk反编译工具，有GUI界面和命令行操作非常方便。
     * [ClassyShark](https://github.com/google/android-classyshark) - Google开源，用于分析apk的工具，可以查看apk中类，接口，方法和dex的数量等信息。
+    
+* maven
+   * [bintray-release](https://github.com/novoda/bintray-release) - A helper for releasing from gradle up to bintray。
+   
 
 ## Theme
 
