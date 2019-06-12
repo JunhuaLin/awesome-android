@@ -47,6 +47,8 @@ A curated list of awesome Android frameworks, libraries, software and resources
     * [AndPermission](https://github.com/yanzhenjie/AndPermission) - android动态权限申请的封装库，链式编程使用非常方便。
 
 * file
+
+    * [MMKV](https://github.com/Tencent/MMKV) - 基于 mmap 的高性能通用 key-value 组件，可完全替代SharedPreferences。
     * [SPManager](https://github.com/JunhuaLin/AndroidUtilsLibrary/blob/master/app/src/main/java/cn/junhua/android/utilslibrary/io/SPManager.java) - SharedPreferences工具类，通用数据存储
     * [CITool](https://github.com/JunhuaLin/AndroidUtilsLibrary/tree/master/app/ci) - 用于上传apk到ftp和AppStore
 
