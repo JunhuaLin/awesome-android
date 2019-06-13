@@ -140,6 +140,9 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [awesome-android](https://github.com/JStumpp/awesome-android) - JStumpp的Android资源列表。
 * [awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
+# android面试题
+   * [Android-Notes](https://github.com/Omooo/Android-Notes) - 最全最完善的 Android 文章集，赌一包小鱼干不看绝对后悔。
+   
 # 其他优秀的导航网站
 
 * [玩android](https://www.wanandroid.com/navi)
