@@ -142,7 +142,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 # android面试题
    * [Android-Notes](https://github.com/Omooo/Android-Notes) - 最全最完善的 Android 文章集，赌一包小鱼干不看绝对后悔。
-   * [Android-Interview](https://github.com/android-exchange/Android-Interview) - 收集 Android 开发相关最具价值的面试题及常见套路，持续更新.
+   * [Android-Interview](https://github.com/android-exchange/Android-Interview) - 收集 Android 开发相关最具价值的面试题及常见套路，包括技术知识点，算法，架构，行业发展方向，hr问答等，持续更新.
    
    
    
