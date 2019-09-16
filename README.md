@@ -147,6 +147,11 @@ A curated list of awesome Android frameworks, libraries, software and resources
    * [android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) - Android Interview Questions - Your Cheat Sheet For Android Interview
    
    
+# 优秀的博客
+
+* [wingjay](http://wingjay.com/) - android干货，代表作有<<亿级Android架构>>
+* [匠心写作](http://gank.io/post/published) - 文章虽少但都是精品，代表作《RxJava 与 Retrofit 结合的最佳实践 (tough1985)》
+   
    
 # 其他优秀的导航网站
 
