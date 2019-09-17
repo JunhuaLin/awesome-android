@@ -125,13 +125,22 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [腾讯](https://github.com/Tencent)
 * [滴滴出行](https://github.com/didi)
 
-## 大厂技术博客
+## 优秀的博客
+
+### 大厂技术博客
 
 * [JAKE WHARTON](https://jakewharton.com/)
 * [美团技术团队](https://tech.meituan.com/)
 * [Android 开发技术周报](https://androidweekly.cn/)
 * [网易考拉移动端团队](https://blog.klmobile.app/)
 * [有赞技术团队](https://tech.youzan.com/tag/mobile/)
+
+### 个人技术博客
+
+* [wingjay](http://wingjay.com/) - android干货，代表作有<<亿级Android架构>>
+* [匠心写作](http://gank.io/post/published) - 文章虽少但都是精品，代表作《RxJava 与 Retrofit 结合的最佳实践 (tough1985)》
+
+
 
 # awesome集中营
 
@@ -145,12 +154,6 @@ A curated list of awesome Android frameworks, libraries, software and resources
    * [Android高级工程师面试题](https://www.jianshu.com/p/e6702d61eec9) - 这些题目是网友去百度、小米、乐视、美团、58、猎豹、360、新浪、搜狐等一线互联网公司面试被问到的题目。熟悉本文中列出的知识点会大大增加通过前两轮技术面试的几率。
    * [Android-Notes](https://github.com/Omooo/Android-Notes) - 最全最完善的 Android 文章集，赌一包小鱼干不看绝对后悔。
    * [android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) - Android Interview Questions - Your Cheat Sheet For Android Interview
-   
-   
-# 优秀的博客
-
-* [wingjay](http://wingjay.com/) - android干货，代表作有<<亿级Android架构>>
-* [匠心写作](http://gank.io/post/published) - 文章虽少但都是精品，代表作《RxJava 与 Retrofit 结合的最佳实践 (tough1985)》
    
    
 # 其他优秀的导航网站
