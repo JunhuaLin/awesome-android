@@ -123,7 +123,9 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [Square](https://github.com/square)
 * [阿里巴巴](https://github.com/alibaba)
 * [腾讯](https://github.com/Tencent)
-* [滴滴出行](https://github.com/didi)
+* [滴滴出行](https://github.com/didi) 
+* [Airbnb](https://github.com/airbnb)
+
 
 ## 优秀的博客
 
