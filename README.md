@@ -65,6 +65,9 @@ A curated list of awesome Android frameworks, libraries, software and resources
     
 * maven
    * [bintray-release](https://github.com/novoda/bintray-release) - A helper for releasing from gradle up to bintray。
+    
+* interpolator
+   * [BezierInterpolator](https://github.com/JunhuaLin/AndroidUtilsLibrary/blob/master/app/src/main/java/cn/junhua/android/utilslibrary/interpolator/BezierInterpolator.java) - 基于贝塞尔曲线的动画插值器,可以实现任何常见插值器效果。
    
 
 ## Theme
