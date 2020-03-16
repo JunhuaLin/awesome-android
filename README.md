@@ -97,6 +97,8 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 * UI库快速开发
     * [QMUI_Android](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库，常见View封装即开即用，常用工具沉浸式状态工具等 http://qmuiteam.com/android
+    
+    * [ELinkageScroll](https://github.com/MFC-TEC/ELinkageScroll) - 多子view嵌套滚动通用解决方案
 
 ## WebView
 
