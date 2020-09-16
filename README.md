@@ -99,9 +99,11 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * UI库快速开发
     * [QMUI_Android](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库，常见View封装即开即用，常用工具沉浸式状态工具等 http://qmuiteam.com/android
     
-    * [ELinkageScroll](https://github.com/MFC-TEC/ELinkageScroll) - 多子view嵌套滚动通用解决方案
+    * [ELinkageScroll](https://github.com/MFC-TEC/ELinkageScroll) - 多子view嵌套滚动通用解决方案(入侵性较大，建议使用ConsecutiveScrollerLayout)
     
     * [Fragmentation](https://github.com/YoKeyword/Fragmentation) - A powerful library that manage Fragment for Android
+    
+    * [ConsecutiveScrollerLayout](https://github.com/donkingliang/ConsecutiveScroller) - ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、WebView、ScrollView等)和lView等)和普通控件(TextView、ImageView、LinearLayou、自定义View等)持续连贯滑动的容器,它使所有的子View像一个整体一样连续顺畅滑动。并且支持布局吸顶功能。
 
 ## WebView
 
