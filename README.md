@@ -112,6 +112,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [腾讯x5内核](https://x5.tencent.com/)
 * [WebView与JS交互](https://blog.csdn.net/carson_ho/article/details/64904691) - 全面地介绍Android通过WebView与JS交互方式。
 * [今日头条品质优化 - 图文详情页秒开实践](https://mp.weixin.qq.com/s/Xqr6rQBbx7XPoBESEFuXJw) - 非常不错的秒开方案，基于前后端分离的h5页面，并将页面模板部分（css,js,html）本地化,在展示时候并行请求数据并填充展示，在此基础上再增加模板预热，webview复用等。
+* [70%以上业务由H5开发，手机QQ Hybrid 的架构如何优化演进？](https://mp.weixin.qq.com/s/evzDnTsHrAr2b9jcevwBzA?) - 手机QQ Hybrid 的架构如何优化演进
 
 ## 调试
 
