@@ -7,6 +7,13 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 * [**Android 性能优化必知必会**](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/) - 这篇文章记录了 Android 性能优化所必须掌握的知识,涵盖性能优化相关的方方面面。
 
+## 音视频
+
+*关于音视频相关的文章或者博客*
+
+* [Android 音视频开发打怪升级](https://github.com/ChenLittlePing/LearningVideo) - 系列文章示例代码（A demo to introduce how to develop android video）。本项目将从MediaCodec硬解，FFmpeg软解，OpenGL等方面，全方位讲解如何在Android上进行音视频编辑开发。
+
+
 ## Android屏幕适配
 
 * [Android屏幕适配全攻略](https://blog.csdn.net/zhaokaiqiang1992/article/details/45419023) - 从屏幕基础知识到常见适配方案的详细介绍。
