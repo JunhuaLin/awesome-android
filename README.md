@@ -7,6 +7,13 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 * [**Android 性能优化必知必会**](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/) - 这篇文章记录了 Android 性能优化所必须掌握的知识,涵盖性能优化相关的方方面面。
 
+
+## Flutter
+
+*关于Flutter相关的文章或者博客*
+
+* [**Flutter 跨平台演进及架构开篇**](http://gityuan.com/flutter/) - Flutter 跨平台演进及架构开篇，内容丰富有深度，拓展内容涉及到flutter事件分发，UI渲染等
+
 ## 音视频
 
 *关于音视频相关的文章或者博客*
