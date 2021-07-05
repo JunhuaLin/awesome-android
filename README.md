@@ -143,7 +143,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 *关于架构相关的技术文章*
 
-* [设计模式](https://refactoringguru.cn/design-patterns) - 非常有趣生动的设计模式讲解。
+* [设计模式](https://refactoringguru.cn/design-patterns) - 非常有趣生动的设计模式讲解，采用漫画展、类图以及伪代码相结合的形式讲解，阅读理解都变的非常轻松。
 
 
 ## Maven操作
