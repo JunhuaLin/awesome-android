@@ -14,7 +14,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 *关于Flutter相关的文章或者博客*
 
 * [**Flutter 跨平台演进及架构开篇**](http://gityuan.com/flutter/) - Flutter 跨平台演进及架构开篇，内容丰富有深度，拓展内容涉及到flutter事件分发，UI渲染等
-* [**Flutter Boost**](https://github.com/alibaba/flutter_boost) - 咸鱼开源的原生与Flutter混合开发下页面路由管理库，包括原生与Flutter互相页面，单Flutter引擎，同步页面生命周期，支持Android与iOS等
+* [**Flutter Boost**](https://github.com/alibaba/flutter_boost) - 咸鱼开源的原生与Flutter混合开发下页面路由管理库，包括原生与Flutter页面互相跳转，单Flutter引擎，同步页面生命周期，支持Android与iOS等
 
 ## 音视频
 
