@@ -15,6 +15,8 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 * [**Flutter 跨平台演进及架构开篇**](http://gityuan.com/flutter/) - Flutter 跨平台演进及架构开篇，内容丰富有深度，拓展内容涉及到flutter事件分发，UI渲染等
 * [**Flutter Boost**](https://github.com/alibaba/flutter_boost) - 咸鱼开源的原生与Flutter混合开发下页面路由管理库，包括原生与Flutter页面互相跳转，单Flutter引擎，同步页面生命周期，支持Android与iOS等
+* [**Getx**](https://github.com/jonataslaw/getx) - GetX 是 Flutter 上的一个轻量且强大的解决方案：高性能的状态管理、智能的依赖注入和便捷的路由管理。
+
 
 ## 音视频
 
