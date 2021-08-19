@@ -175,6 +175,8 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [网易考拉移动端团队](https://blog.klmobile.app/)
 * [有赞技术团队](https://tech.youzan.com/tag/mobile/)
 * [字节跳动技术团队](https://juejin.im/user/5b3d7c31f265da0fa12202af)
+* [咸鱼技术](https://www.jianshu.com/u/cf5c0e4b1111)
+* [腾讯技术工程](https://www.zhihu.com/org/teng-xun-ji-zhu-gong-cheng)
 
 
 ### 个人技术博客
