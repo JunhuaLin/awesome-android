@@ -155,6 +155,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 * [私有库发布到jCenter和Maven](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html)
 * [bintray-release](https://github.com/novoda/bintray-release) - A helper for releasing from gradle up to bintray
+* [Gradle Configuration](https://dim.red/2018/11/03/gradle_configuration_exploration/) - 详细的讲述了gradle依赖冲突时处理策略，版本比较，缓存有效期等
 
 ## 大厂github
 
