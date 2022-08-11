@@ -8,6 +8,9 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [**Android 性能优化必知必会**](https://www.androidperformance.com/2018/05/07/Android-performance-optimization-skills-and-tools/) - 这篇文章记录了 Android 性能优化所必须掌握的知识,涵盖性能优化相关的方方面面。
 * [**tailor**](https://github.com/bytedance/tailor) - Tailor是西瓜Android团队开发的一款通用内存快照裁剪压缩工具，通过它可以在异常时直接dump出一个迷你内存快照。快照中没 有任何敏感信息，更重要的是文件非常小的同时数据也相对完整，非常适合离线分析OOM及其他类型异常的调查定位。
 * [**leakcanary**](https://github.com/square/leakcanary) - Android内存泄漏分析库，应该每个Android开发都用过吧~
+* [**Perfetto**](https://ui.perfetto.dev/#!/record/buffers) - Android系统追踪分析最新分析工具，比systrace更好用~
+* [**Android 性能优化 - Android 性能分析工具简介**](https://zhuanlan.zhihu.com/p/454233508) - Android 性能优化 - Android 性能分析工具简介,包含perfetto,systrace等
+
 
 ## Flutter
 
