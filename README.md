@@ -51,7 +51,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 ## Plugin
 
-*关于android插件化相关的框架或者文章*
+*关于android插件化相关的框架或者文章*（Android9有隐藏API之后几大插件化开源都停止更新，插件化基本停止，平台型应用更多的使用小程序，如微信、支付宝等）
 
 * [VirtualAPK](https://github.com/didi/VirtualAPK) - A powerful and lightweight plugin framework for Android.Android 9.0 supported!
 * [atlas](https://github.com/alibaba/atlas) - Atlas is an Android client-side containerization framework. we call it android dynamic component framework.Android 9.0 supported!
