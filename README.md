@@ -15,6 +15,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 
 * [**火山引擎**](https://www.volcengine.com/docs/6431/69088) - 应用性能监控全链路版当前包含的子监控服务有：App端、Web端、服务端、小程序、PC、OS端监控以及Flutter。
 * [**QAPM**](https://cloud.tencent.com/product/qapm) - 腾讯客户端性能分析（QAPM）是一款全方位定位检测 APP 应用性能的 SDK，其简单易用、并能提供多维度检测及分析，您只需简单的调用几个接口，就能对您的 APP 做全方位的性能检测。
+* [**matrix**](https://github.com/Tencent/matrix) - Matrix 是一款微信研发并日常使用的应用性能接入框架，支持iOS, macOS和Android。 Matrix 通过接入各种性能监控方案，对性能监控项的异常数据进行采集和分析，输出相应的问题分析、定位与优化建议，从而帮助开发者开发出更高质量的应用.
 
 ## Flutter
 
