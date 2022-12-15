@@ -194,6 +194,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [匠心写作](http://gank.io/post/published) - 文章虽少但都是精品，代表作《RxJava 与 Retrofit 结合的最佳实践 (tough1985)》
 * [Carson_Ho](https://www.jianshu.com/u/383970bef0a0) - 简书认证作者、CSDN签约作者、稀土掘金专栏作者。分享 Android开发 干货
 * [Android Performance](https://www.androidperformance.com/):Gracker的android技术博客，质量非常高值得学习，代表作《Android 性能优化必知必会》
+* [Java 全栈知识体系](https://pdai.tech/):Java知识的方法方方面面都有~
 
 
 
