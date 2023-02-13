@@ -132,6 +132,9 @@ A curated list of awesome Android frameworks, libraries, software and resources
     
     * [ConsecutiveScrollerLayout](https://github.com/donkingliang/ConsecutiveScroller) - ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、WebView、ScrollView等)和lView等)和普通控件(TextView、ImageView、LinearLayou、自定义View等)持续连贯滑动的容器,它使所有的子View像一个整体一样连续顺畅滑动。并且支持布局吸顶功能。
 
+* 图表库
+    * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library for Android 
+
 ## WebView
 
 * [VasSonic](https://github.com/Tencent/VasSonic) - 腾讯出品专注于H5首屏加速。
