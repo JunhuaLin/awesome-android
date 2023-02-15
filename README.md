@@ -48,6 +48,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [DBFlow](https://github.com/agrosner/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
 * [realm-java](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs [http://realm.io](http://realm.io)
 * [room](https://developer.android.google.cn/topic/libraries/architecture/room) - Room 持久性库在 SQLite 的基础上提供了一个抽象层，让用户能够在充分利用 SQLite 的强大功能的同时，获享更强健的数据库访问机制。
+* [wcdb](https://github.com/Tencent/wcdb) - WCDB是一个高效、完整、易用的移动数据库框架，基于SQLCipher，支持iOS, macOS和Android。
 
 ## HotFix
 
