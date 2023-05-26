@@ -136,6 +136,10 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * 图表库
     * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library for Android 
 
+* 动画库
+   * [PAG](https://github.com/libpag) - PAG（Portable Animated Graphics）是腾讯自主研发的一套完整的动画工作流解决方案，助力于将 AE 动画方便快捷的应用于各平台终端。和 Lottie、SVGA 相比，支持的 AE 特性更多，支持的平台更广（增加了 mac OS、Windows 和 Linux），性能方面也做了深层次的优化，支持图层编辑，可以与视频编辑场景紧密结合。目前已经广泛应用于公司内外几十款 APP，包括国民级 APP 微信、QQ、腾讯视频、QQ 音乐、QQ 空间等。
+  
+
 ## WebView
 
 * [VasSonic](https://github.com/Tencent/VasSonic) - 腾讯出品专注于H5首屏加速。
