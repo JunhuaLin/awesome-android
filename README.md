@@ -63,6 +63,13 @@ A curated list of awesome Android frameworks, libraries, software and resources
 * [atlas](https://github.com/alibaba/atlas) - Atlas is an Android client-side containerization framework. we call it android dynamic component framework.Android 9.0 supported!
 * [RePlugin](https://github.com/Qihoo360/RePlugin.git) - RePlugin是一套完整的、稳定的、适合全面使用的，占坑类插件化方案，由360手机卫士的RePlugin Team研发，也是业内首个提出”全面插件化“（全面特性、全面兼容、全面使用）的方案。
 
+## Android逆向
+
+* [jadx](https://github.com/skylot/jadx) - jadx - Dex 到 Java 反编译器，用于从 Android Dex 和 Apk 文件生成 Java 源代码的命令行和 GUI 工具
+* [apktool](https://github.com/iBotPeaches/Apktool) - Apktool 是一款用于对第三方、封闭、二进制 Android 应用进行逆向工程的工具。它可以将资源解码为接近原始形式，并在进行一些修改后重建它们；它可以逐步调试 smali 代码。由于具有类似项目的文件结构和一些重复任务（例如构建 apk 等）的自动化，它还可以更轻松地使用应用。
+* [Xposed](https://github.com/rovo89/Xposed) - Xposed原理：通过修改替换/system/bin/app_process程序控制zygote进程，使app_process在启动过程中加载xposedBrider.jar包，从而完成对zygote进程以及其创建的虚拟机劫持。
+* [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - 字节码查看器 - 一个轻量级、用户友好的 Java/Android 字节码查看器、反编译器等。
+
 
 ## Tools
 
