@@ -225,7 +225,7 @@ A curated list of awesome Android frameworks, libraries, software and resources
    * [Android-Notes](https://github.com/Omooo/Android-Notes) - 最全最完善的 Android 文章集，赌一包小鱼干不看绝对后悔。
    * [android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions) - Android Interview Questions - Your Cheat Sheet For Android Interview
    * [Android_QA](https://github.com/Omooo/Android_QA) - 常见Android基础面试问题
-   * [移动问题集锦](https://github.com/yangchong211/YCBlogs) - 汇聚Android开发相关的大部分问题，Flutter，博客，github等
+   * [移动问题集锦](https://github.com/yangchong211/YCBlogs) - 汇聚Android开发相关的大部分问题，Flutter，工程构建，博客，github等
    
    
 # 其他优秀的导航网站
